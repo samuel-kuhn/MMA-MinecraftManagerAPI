@@ -1,5 +1,0 @@
-apply name scheme
-
-add curseforge, spigot, etc, compatibility in config file
-
-add import script for both servers with and without json file
